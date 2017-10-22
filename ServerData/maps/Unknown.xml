@@ -1,0 +1,34 @@
+<map version="1.0">
+  <spawn-points>
+    <spawn-point type="dm">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <position>
+        <x>5250.000</x>
+        <y>-4750.000</y>
+        <z>900.000</z>
+      </position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <position>
+        <x>4250.000</x>
+        <y>-4750.000</y>
+        <z>900.000</z>
+      </position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <position>
+        <x>3250.000</x>
+        <y>-4750.000</y>
+        <z>900.000</z>
+      </position>
+    </spawn-point>
+  </spawn-points>
+</map>
